@@ -221,3 +221,5 @@ __marimo__/
 *.pt
 *.pth
 *.safetensors
+
+*.sh
